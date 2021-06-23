@@ -10,7 +10,7 @@
 
 ## contents
 
-* **Main project** 
+* 🌟 **Main project** 🌠
   * Embedded software Term Project. 
   * 프로젝트 제목 : Decorating Christmas Tree with Achro-5250
   * 내용 : 어셈블리어와 C를 사용해 Achro-5250에 탑재된 IO 들을 이용한 임베디드 소프트웨어 제작
